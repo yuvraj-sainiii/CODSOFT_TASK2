@@ -1,7 +1,3 @@
-# CODSOFT_TASK2
-Java Development Internship - Task 2: Student Grade Calculator to calculate total marks, average percentage, and grades.
-# Student Grade Calculator
-
 ## About the Project
 
 This project is developed as part of Task 2 of the CodSoft Java Development Internship. It calculates the total marks, average percentage, and grade of a student based on the marks entered for each subject.
